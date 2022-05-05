@@ -2,7 +2,7 @@
 - 👀 I’m interested in SQL Development
 - 🌱 I’m currently learning CleverTap, Oracle Responsys, Axiom.  
 - 🌱 I’m currently Working in Bajaj Finserv
-- 💞️ I’m looking to collaborate on varios projects related to SQL
+- 💞️ I’m looking to collaborate on various projects related to SQL
 - 📫 How to reach me https://www.linkedin.com/in/vivek-barange-789709203
 - Email - vbarange8@gmail.com
 - What's App - 9730392134
